@@ -1,5 +1,5 @@
-# hello-world
-Learnig how to use GitHub/Git
+# Learn GIT / GITHUB
+Learnig how to use Git / Github
 
 Something about myself, they say.
 Ok. I am from Portugal, i am sales manager in a tech company but my academic road was intended to be a programer or a system analyst.
